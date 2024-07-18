@@ -1,0 +1,31 @@
+NXP Software Content Register
+
+Package:                    dm-rw612frdm-smart-aircon-with-wifi-and-mqtt
+Version:                    1.0
+Outgoing License:           LA_OPT_Online Code Hosting NXP_Software_License - v1.4 May 2025 
+License file:               License.txt
+Description and comments:   Smart AirCon with Wi-Fi and MQTT demo based on the RW612-FRDM board
+                            This demo is based on the Smart Aircon Demo (Also in the Application code hub) but adding Wi-Fi/MQTT.
+                            Featuring:
+                            - Voice UI using NXP's voice intelligent technology (VIT) and VoiceSeeker.
+                            - Voice command engine feature of VIT.
+                            - Graphics using LVGL Open-Source library.
+                            - 4ch VoiceSeeker configuration with adaptive beamformer.
+                            - Wi-Fi and MQTT
+Release Location:           https://github.com/nxp-appcodehub/dm-rw612frdm-smart-aircon-with-wifi-and-mqtt
+Origin:                     NXP (BSD-3-clause)
+                            NXP (Proprietary)
+                            CMSIS v6.1.0 (Apache-2.0) - https://github.com/ARM-software/CMSIS_6/releases/tag/v6.1.0
+                            CMSIS DSP v1.16.2 (Apache-2.0) - https://github.com/ARM-software/CMSIS-DSP/releases/tag/v1.16.2
+                            FreeRTOS V11.0.1 (MIT) - https://github.com/FreeRTOS
+                            lvgl 9.2.1 (MIT) - https://github.com/lvgl/lvgl
+                            Monserrat Medium font (OFL-1.1) - https://github.com/JulietaUla/Montserrat
+                            Antonio Regular Font (OFL-1.1) - https://www.fontsquirrel.com/
+                            Alatsi Regular Font (OFL-1.1) - https://www.fontsquirrel.com/
+                            Poppins Regular Font (OFL-1.1) - https://www.fontsquirrel.com/
+                            lwip ver:lwIP git repository (2024-02-19, branch: master, SHA-1: d0efd9ef7ba08e54b46b1060e2b4629a4907391b)  (BSD-3-clause) - http://savannah.nongnu.org/projects/lwip
+                            wifi_tx_pwr_limits 1.0.0 (BSD-3-clause) - Murata Manufacturing Co., Ltd.
+                            Voice Intelligent Technology library 3.2 (LA_OPT_NXP_Software_License v63 May 2025) - https://github.com/nxp-mcuxpresso/VIT
+                            libvoiceseeker v0.6.9 (LA_OPT_NXP_Software_License - v60 February 2025 - Additional Distribution License granted, license in Section 2.3 applies) - https://github.com/nxp-mcuxpresso/VoiceSeeker/tree/release/25.06.00/ARM_CortexM33_noDSP
+
+

@@ -1,0 +1,31 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="dm-rw612frdm-smart-aircon-with-wifi-and-mqtt" type="demo" format="projectfile" versionSchema="1.0.0" name="RW612FRDM Smart AirCon with WiFi and MQTT">
+    <display_title>
+        RW612-FRDM Smart AirCon with Wi-Fi and MQTT
+    </display_title>
+    <overview>
+        <![CDATA[Smart AirCon demo based on the  RW612-FRDM board, featuring: <br /><ul><li>MQTT communication over Wi-Fi.</li><li>Voice UI using NXP's voice intelligent technology (VIT) and VoiceSeeker.</li><li>Speech to Intent feature of VIT.Graphics using LVGL Open-Source library.</li><li>VoiceSeeker configuration with adaptive beamformer. </li></ul>]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="rw"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-RW612"></hw>
+    </nxp_compatible_hw>
+    <nxp_ebh_hw>
+        <ebh id="nxp_lcd_par_s035"></ebh>
+    </nxp_ebh_hw>
+    <peripherals>
+        <peripheral name="display"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="graphics"></category>
+        <category name="rtos"></category>
+        <category name="voice"></category>
+        <category name="wireless_connectivity"></category>
+        <category name="hmi"></category>
+        <category name="ui"></category>
+    </categories>
+</data:item>

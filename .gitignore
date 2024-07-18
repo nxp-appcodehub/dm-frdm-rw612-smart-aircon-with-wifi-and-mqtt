@@ -1,0 +1,7 @@
+**/.settings
+*.jlink
+/frdmrw612_Smart_Aircon/Release
+Debug/
+Release/
+**/Debug/
+**/Release/
